@@ -19,6 +19,7 @@ public class Program extends ApplicationAdapter {
     //rakki
 	//kokrilr yätä
 	//hakkaa apinaas
+	//TÄHÄN TÄMMÖNENENEN _VILLELELE
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);

@@ -16,6 +16,9 @@ public class Program extends ApplicationAdapter {
 		img = new Texture("badlogic.jpg");
 	}
 
+    //rakki
+	//kokrilr yätä
+	//hakkaa apinaas
 	@Override
 	public void render () {
 		Gdx.gl.glClearColor(1, 0, 0, 1);
